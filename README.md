@@ -1,33 +1,49 @@
-# 🧠 Hello, I'm Leo JH | Senior AI & Software Engineer
+# 🧠 Hello, I'm Leo JH | Senior AI & Full-Stack Architect
 
-> **"Architecting production-ready AI ecosystems and engineering highly scalable, resilient backend infrastructures."**
+> **"Architecting production-ready AI ecosystems, scaling high-throughput distributed networks, and engineering enterprise-grade Web3 & Full-Stack infrastructures."**
 > 
-> I am a Senior Engineer dedicated to bridging the gap between cutting-edge AI capabilities and robust, enterprise-grade software. My core focus lies in productionizing Large Language Models (LLMs), optimizing distributed AI agent workflows, and building high-throughput, low-latency architectures using Python and TypeScript.
+> I am a Senior Engineer dedicated to bridging the gap between cutting-edge AI capability, decentralized networks, and robust software engineering. With extensive expertise spanning from intelligent multi-agent workflows to enterprise Monorepo architectures and Smart Contracts, I specialize in building scalable, secure, and production-grade software ecosystems.
 
 ---
 
 ### 🛠 Technical Deep Dive
 
-#### 🤖 Artificial Intelligence & Data Intelligence
+#### 🤖 AI & Intelligent Systems
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 💻 Distributed Systems & Modern Web
+#### 🌐 Web3 & Decentralized Economies
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+#### 💻 Enterprise Backend & Data Engineering
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### ⚡ Modern Frontend & Monorepo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 🔭 Core Competencies & Core Focus
+### 🔭 Core Competencies & Focus Areas
 
-* **Production LLMOps & Agents:** Architecting advanced Retrieval-Augmented Generation (RAG) pipelines and orchestrating autonomous multi-agent systems tailored for complex business logic.
-* **High-Performance Backend Design:** Designing asynchronous APIs and optimized caching layers to mitigate LLM inference latency and ensure high availability.
-* **End-to-End ML Pipelines:** Streamlining data preprocessing, model evaluation, and CI/CD automated deployment pipelines (MLOps) to accelerate time-to-production.
+* **AI-Driven Engineering:** Designing sophisticated Multi-Agent orchestration pipelines, advanced Retrieval-Augmented Generation (RAG) models, and seamlessly optimizing autonomous AI workflows into modern web layers.
+* **Scalable Microservices & Monorepos:** Managing large-scale codebases using **Nx Monorepos**, establishing robust microservice communication via NestJS, GraphQL, and building efficient search systems with Elasticsearch.
+* **Next-Gen Web3 Infrastructure:** Architecting secure Smart Contracts (Solidity), designing sustainable Tokenomics, and delivering full-cycle engineering for decentralized finance (DeFi) systems, DEXs, and custom NFT Marketplaces.
+* **Cross-Platform & Hybrid Apps:** Crafting fluid, high-performance universal applications leveraging specialized state management paradigms for enterprise web and mobile platforms.
 
 ---
 
