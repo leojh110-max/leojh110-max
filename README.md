@@ -61,3 +61,51 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leojh110-max&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Leo's Activity Graph" />
 </p>
+
+---
+
+### 🚀 Featured Architectural Masterpieces
+
+<table>
+  <!-- Project 1: AI Agent Ecosystem -->
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/GenAI_&_LLMOps-Project-purple?style=for-the-badge" alt="AI Project" /><br /><br />
+      <strong>🤖 NexusAI: Autonomous Multi-Agent Orchestration Platform</strong>
+      <p>Architected and deployed a production-ready enterprise AI ecosystem capable of orchestrating concurrent autonomous agents to automate highly intricate business workflows.</p>
+      <ul>
+        <li>Implemented high-efficiency <strong>Retrieval-Augmented Generation (RAG)</strong> pipelines minimizing hallucination.</li>
+        <li>Built an asynchronous, low-latency streaming layer using <strong>Python, FastAPI, and OpenAI/LangChain</strong> to mitigate inference delays.</li>
+        <li><strong>Tech Stack:</strong> Python, FastAPI, LangChain, OpenAI, Docker, PostgreSQL</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Project 2: Web3 & Decentralized Finance -->
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Web3_&_DeFi-Project-gold?style=for-the-badge" alt="Web3 Project" /><br /><br />
+      <strong>🌐 Astraea: Decentralized NFT Marketplace & Custom DEX Protocol</strong>
+      <p>Designed and engineered an enterprise-grade Web3 infrastructure featuring gas-optimized smart contracts, cross-protocol DeFi mechanisms, and an advanced custom NFT trading marketplace.</p>
+      <ul>
+        <li>Authored secure, audited <strong>Solidity Smart Contracts</strong> with precise tokenomics and robust reward distributions.</li>
+        <li>Built a high-fidelity indexing and metadata aggregation system utilizing <strong>Hardhat</strong> and customized event listeners to sync with OpenSea standards.</li>
+        <li><strong>Tech Stack:</strong> Solidity, Hardhat, Web3.js, Node.js, Next.js, GraphQL</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Project 3: Enterprise Monorepo Backend -->
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Enterprise_FullStack-Project-blue?style=for-the-badge" alt="FullStack Project" /><br /><br />
+      <strong>⚡ CoreX: High-Throughput Microservice Infrastructure</strong>
+      <p>Scaled a massive corporate software ecosystem by re-architecting legacy code into a unified high-performance Monorepo, radically accelerating build times and engineering efficiency.</p>
+      <ul>
+        <li>Orchestrated modular scaling across sub-teams using <strong>Nx Monorepos</strong>, achieving seamless cross-application dependency management.</li>
+        <li>Engineered enterprise microservices leveraging <strong>NestJS, GraphQL</strong>, and decoupled data layers with <strong>Elasticsearch</strong> for millisecond-range full-text search capabilities.</li>
+        <li><strong>Tech Stack:</strong> TypeScript, Nx, NestJS, Next.js, GraphQL, Elasticsearch, Docker</li>
+      </ul>
+    </td>
+  </tr>
+</table>
