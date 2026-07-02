@@ -1,17 +1,16 @@
 <p align="center">
-  <!-- 1. 만들어두신 시각적인 이미지를 여기에 배치합니다 -->
-  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Leo JH Senior Architect Banner" />
+  <img src="banner.png" width="100%" alt="Leo JH Senior Architect Banner" />
 </p>
 
 <h1 align="center">🧠 Hello, I'm Leo JH</h1>
 <p align="center">
-  <strong>Senior AI, Web3 & Full-Stack Architect</strong><br />
+  <strong>Senior AI Developer</strong><br />
   <em>"Engineering intelligent multi-agent ecosystems, distributed networks, and enterprise-grade codebases."</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/leojh110-max"><img src="https://img.shields.io/badge/Role-Senior_Engineer-blue?style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email_Me-emerald?style=for-the-badge" /></a>
+  <a href="mailto:leo.jh110@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-emerald?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -60,7 +59,6 @@
 ### 📊 Dynamic Insights & Metrics
 
 <p align="center">
-  <!-- 레오님의 활동을 화려한 꺾은선 그래프로 시각화 (참고 프로필 스타일 반영) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leojh110-max&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Leo's Activity Graph" />
 </p>
 
@@ -73,7 +71,6 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/...">💼 LinkedIn</a> • 
+  <a href="mailto:leo.jh110@gmail.com">📧 Email</a> • 
   <a href="https://...">📝 Technical Blog</a>
 </p>
