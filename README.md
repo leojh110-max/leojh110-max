@@ -61,16 +61,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leojh110-max&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Leo's Activity Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leojh110-max&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&headline_card_count=true" width="48%" alt="Leo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojh110-max&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="center">
-  <a href="mailto:leo.jh110@gmail.com">📧 Email</a> • 
-  <a href="https://...">📝 Technical Blog</a>
-</p>
